@@ -1,0 +1,586 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"fullName"
+			],
+			[
+				"ex",
+				"expand"
+			],
+			[
+				"is",
+				"isExpanded"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"l",
+				"locale"
+			],
+			[
+				"fl",
+				"flash"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"fla",
+				"flash	flash[…]"
+			],
+			[
+				"un",
+				"unless	unless … end"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"cont",
+				"controller	Ember.Controller.extend()"
+			],
+			[
+				"linkt",
+				"link-to"
+			],
+			[
+				"li",
+				"linkto	{{#linkTo }} {{/linkTo}}"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"re",
+				"remaining"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"ass",
+				"assert_redirected"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"fi",
+				"fieldset	Tag"
+			],
+			[
+				"in",
+				"input_attributes"
+			],
+			[
+				"if",
+				"if	ERB if"
+			],
+			[
+				"sr",
+				"src"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"ac",
+				"acronym	Tag"
+			],
+			[
+				"ma",
+				"mail"
+			],
+			[
+				"pa",
+				"pay_type"
+			],
+			[
+				"e",
+				"example"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"cart",
+				"cart_id"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"assert",
+				"assert_response"
+			],
+			[
+				"ru",
+				"ruby_book"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"r",
+				"router	App.Router.map()"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"reque",
+				"requestObject"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"cha",
+				"charCode"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"cre",
+				"createTextNode"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"second",
+				"secondTitle"
+			],
+			[
+				"spam",
+				"spamForm"
+			],
+			[
+				"el",
+				"elements"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"f",
+				"form	Tag"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"b",
+				"body	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 225.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ali",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Run JavaScript in the browser"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"bundle install",
+			"clear",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andre/Documents/html/teste.html",
+		"/Users/andre/Documents/html/test1.html",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/config/newrelic.yml",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/models/user.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/users_controller.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/config/initializers/i18n.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/config/routes.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/application_controller.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/Gemfile",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/sessions/new.html.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/test/test_helper.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/layouts/application.html.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/test/fixtures/users.yml",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/carts_controller.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/store_controller.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/sessions_controller.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/line_items_controller.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/orders_controller.rb",
+		"/Users/andre/Development/jquery-example/jqia2.source/chapter2/lab.selectors.html",
+		"/Users/andre/Development/jquery-example/Teste.js",
+		"/Users/andre/Development/emberjs-projects/todo-mvc/js/libs/localstorage_adapter.js",
+		"/Users/andre/Development/emberjs-projects/todo-mvc/js/application.js",
+		"/Users/andre/Development/emberjs-projects/todo-mvc/js/controllers/todos_controller.js",
+		"/Users/andre/Development/emberjs-projects/todo-mvc/js/controllers/todo_controller.js",
+		"/Users/andre/Development/emberjs-projects/todo-mvc/js/router.js",
+		"/Users/andre/Development/emberjs-projects/todo-mvc/index.html",
+		"/Users/andre/Development/emberjs-projects/todo-mvc/js/views/edit_todo_view.js",
+		"/Users/andre/Development/emberjs-projects/todo-mvc/js/models/todo.js",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/users/_form.html.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/users/index.html.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/users/edit.html.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/order_notifier/shipped.html.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/test/functional/order_notifier_test.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/test/integration/user_stories_test.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/line_items/_line_item.text.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/config/environments/development.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/mailers/order_notifier.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/order_notifier/received.text.erb",
+		"/Users/andre/Development/jquery-example/jqia2.source/chapter1/radio.group.html",
+		"/Users/andre/Development/jquery-example/jqia2.source/chapter1/listing-1.1.html",
+		"/Users/andre/Development/starter-kit-1.0.0/index.html",
+		"/Users/andre/Development/starter-kit-1.0.0/css/style.css",
+		"/Users/andre/Development/starter-kit-1.0.0/js/app.js",
+		"/Users/andre/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/andre/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/line_items/create.js.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/carts/_cart.html.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/carts/index.html.erb",
+		"/Users/andre/Documents/Teste.html",
+		"/Users/andre/Library/Application Support/Sublime Text 3/Packages/User/codeivate-st.sublime-settings",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/products_controller.rb",
+		"/Users/andre/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"newT",
+			"com",
+			"crea",
+			"mail"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"project": "shopping-cart.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/html/teste.html"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"appli",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"user",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"test_",
+				"test/test_helper.rb"
+			],
+			[
+				"sessio",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"store",
+				"app/controllers/store_controller.rb"
+			],
+			[
+				"sessi",
+				"test/functional/sessions_controller_test.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"users",
+				"test/functional/users_controller_test.rb"
+			],
+			[
+				"order",
+				"test/functional/order_notifier_test.rb"
+			],
+			[
+				"recei",
+				"app/views/order_notifier/received.text.erb"
+			],
+			[
+				"appl",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"create",
+				"app/views/line_items/create.js.erb"
+			],
+			[
+				"carts",
+				"app/controllers/carts_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

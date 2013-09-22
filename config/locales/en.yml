@@ -1,5 +1,27 @@
 # Sample localization file for English. Add more files in this directory for other locales.
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
-
-en:
-  hello: "Hello world"
+en: 
+  layouts: 
+    application:
+      title: "Pragmatic Bookshelf" 
+      contact: "Contact"
+      home: "Home"
+      news: "News"
+      questions: "Questions"
+  store: 
+    index: 
+      add_html: "Add to Cart"
+      title_html: "Your Pragmatic Catalog"
+  carts:
+    cart:
+      title: "Your Cart"
+      empty: "Empty"
+      checkout: "Checkout"
+  number:
+  	currency:
+  		format:
+  			unit: "$"
+  			precision: 2
+  			separator: "."
+  			delimeter: ","
+  			format: "%u%n"
