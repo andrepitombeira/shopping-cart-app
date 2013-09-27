@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"sub",
+				"submit"
+			],
+			[
 				"P",
 				"Pragmatic"
 			],
@@ -160,10 +164,6 @@
 				"ruby_book"
 			],
 			[
-				"sub",
-				"subject"
-			],
-			[
 				"con",
 				"config"
 			],
@@ -280,42 +280,26 @@
 	"buffers":
 	[
 		{
-			"file": "app/views/layouts/application.html.erb",
+			"file": "app/views/orders/new.html.erb",
 			"settings":
 			{
-				"buffer_size": 1715,
+				"buffer_size": 119,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/views/store/index.html.erb",
+			"file": "app/views/orders/_form.html.erb",
 			"settings":
 			{
-				"buffer_size": 478,
+				"buffer_size": 995,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/views/carts/_cart.html.erb",
+			"file": "app/controllers/orders_controller.rb",
 			"settings":
 			{
-				"buffer_size": 391,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/sessions_controller.rb",
-			"settings":
-			{
-				"buffer_size": 455,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/application_controller.rb",
-			"settings":
-			{
-				"buffer_size": 838,
+				"buffer_size": 2342,
 				"line_ending": "Unix"
 			}
 		},
@@ -323,7 +307,7 @@
 			"file": "config/locales/en.yml",
 			"settings":
 			{
-				"buffer_size": 662,
+				"buffer_size": 945,
 				"line_ending": "Unix"
 			}
 		},
@@ -331,7 +315,31 @@
 			"file": "config/locales/es.yml",
 			"settings":
 			{
-				"buffer_size": 726,
+				"buffer_size": 1582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 1995,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/store_controller.rb",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css.scss",
+			"settings":
+			{
+				"buffer_size": 2143,
 				"line_ending": "Unix"
 			}
 		}
@@ -403,6 +411,14 @@
 	},
 	"file_history":
 	[
+		"/Users/andre/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/application_controller.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/sessions_controller.rb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/carts/_cart.html.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/store/index.html.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/layouts/application.html.erb",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/config/locales/en.yml",
+		"/Users/andre/Development/rails/projects/shopping-cart-app/config/locales/es.yml",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/config/routes.rb",
 		"/Users/andre/Documents/html/teste.html",
 		"/Users/andre/Documents/html/test1.html",
@@ -410,15 +426,12 @@
 		"/Users/andre/Development/rails/projects/shopping-cart-app/app/models/user.rb",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/users_controller.rb",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/config/initializers/i18n.rb",
-		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/application_controller.rb",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/Gemfile",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/sessions/new.html.erb",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/test/test_helper.rb",
-		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/layouts/application.html.erb",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/test/fixtures/users.yml",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/carts_controller.rb",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/store_controller.rb",
-		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/sessions_controller.rb",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/line_items_controller.rb",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/app/controllers/orders_controller.rb",
 		"/Users/andre/Development/jquery-example/jqia2.source/chapter2/lab.selectors.html",
@@ -447,9 +460,7 @@
 		"/Users/andre/Development/starter-kit-1.0.0/css/style.css",
 		"/Users/andre/Development/starter-kit-1.0.0/js/app.js",
 		"/Users/andre/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/Users/andre/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/line_items/create.js.erb",
-		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/carts/_cart.html.erb",
 		"/Users/andre/Development/rails/projects/shopping-cart-app/app/views/carts/index.html.erb",
 		"/Users/andre/Documents/Teste.html",
 		"/Users/andre/Library/Application Support/Sublime Text 3/Packages/User/codeivate-st.sublime-settings",
@@ -458,7 +469,7 @@
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -493,24 +504,51 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/views/layouts/application.html.erb",
+					"file": "app/views/orders/new.html.erb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1715,
+						"buffer_size": 119,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1094,
-								1094
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/orders/_form.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								454,
+								454
 							]
 						],
 						"settings":
@@ -520,33 +558,6 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 371.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/views/store/index.html.erb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 478,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								85,
-								85
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -554,26 +565,28 @@
 				},
 				{
 					"buffer": 2,
-					"file": "app/views/carts/_cart.html.erb",
+					"file": "app/controllers/orders_controller.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 391,
+						"buffer_size": 2342,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								389,
-								389
+								1349,
+								1349
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
+						"translation.x": 150.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -581,24 +594,24 @@
 				},
 				{
 					"buffer": 3,
-					"file": "app/controllers/sessions_controller.rb",
+					"file": "config/locales/en.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 455,
+						"buffer_size": 945,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								91,
-								91
+								945,
+								911
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"syntax": "Packages/YAML/YAML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -610,60 +623,55 @@
 				},
 				{
 					"buffer": 4,
-					"file": "app/controllers/application_controller.rb",
+					"file": "config/locales/es.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 838,
+						"buffer_size": 1582,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								757,
-								757
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 5,
-					"file": "config/locales/en.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 662,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								537,
-								662
+								1573,
+								1573
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 2
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 208.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								807,
+								807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -673,28 +681,56 @@
 				},
 				{
 					"buffer": 6,
-					"file": "config/locales/es.yml",
+					"file": "app/controllers/store_controller.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 726,
+						"buffer_size": 265,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								724,
-								724
+								129,
+								129
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 2
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/assets/stylesheets/application.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2117,
+								2117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1301.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -704,7 +740,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 36.0
 	},
 	"input":
 	{
@@ -719,18 +755,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -755,6 +784,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"ap",
+				"app/assets/stylesheets/application.css.scss"
+			],
 			[
 				"index",
 				"app/views/store/index.html.erb"

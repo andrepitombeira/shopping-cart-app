@@ -20,6 +20,10 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
+#group :production do
+#	gem 'mysql2'
+#end
+
 gem 'jquery-rails', '~> 2.3.0'
 
 gem 'will_paginate', '~> 3.0'
